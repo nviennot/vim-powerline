@@ -41,8 +41,8 @@ call Pl#Hi#Allocate({
 
 let g:Powerline#Colorschemes#default#colorscheme = Pl#Colorscheme#Init([
 	\ Pl#Hi#Segments(['SPLIT'], {
-		\ 'n': ['white', 'gray2'],
-		\ 'N': ['white', 'gray0'],
+		\ 'n': ['white', 'gray6'],
+		\ 'N': ['white', 'gray2'],
 		\ 'i': ['white', 'darkestblue'],
 		\ }),
 	\
