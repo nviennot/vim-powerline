@@ -96,7 +96,7 @@ let g:Powerline#Colorschemes#default#colorscheme = Pl#Colorscheme#Init([
 		\ }),
 	\
 	\ Pl#Hi#Segments(['errors'], {
-		\ 'n': ['brightestorange', 'gray2', ['bold']],
+		\ 'n': ['brightestorange', 'gray6', ['bold']],
 		\ 'i': ['brightestorange', 'darkestblue', ['bold']],
 		\ }),
 	\
